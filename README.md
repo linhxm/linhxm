@@ -41,6 +41,6 @@ IT Professional | AI & Machine Learning Enthusiast
 ## 📊 Stats
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=6366f1" alt="profile views"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=false&hide_rank=true&hide_border=true&hide=commits,prs,issues,contribs&bg_color=00000000&title_color=6366f1&text_color=ffffff" alt="total stars" height="45"/>
+  <img src="https://komarev.com/ghpvc/?username=linhxm&style=for-the-badge&color=6366f1" alt="profile views"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=linhxm&show_icons=false&hide_rank=true&hide_border=true&hide=commits,prs,issues,contribs&bg_color=00000000&title_color=6366f1&text_color=ffffff" alt="total stars" height="45"/>
 </p>
