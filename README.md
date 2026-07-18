@@ -1,31 +1,28 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20Space&fontSize=70" alt="Banner" width="100%"/>
-</p>
+# Hi there 👋 I'm Linh
 
-<h1 align="center">Hi there! I'm <strong>Nguyen Van Linh</strong> </h1>
-<p align="center">
-  <em>IT Professional — building and optimizing AI systems with a deep passion</em>
-</p>
+AI Engineer | Data Science | Machine Learning
 
-<p align="center">
-  <a href="mailto:nguyenvanlinh.1710.it@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email">
-  </a>
-  <a href="https://www.linkedin.com/in/nguy%E1%BB%85n-linh-303a37333/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
-  </a>
-</p>
-
----
-
-## 🛠 Tech Stack (Python & AI Ecosystem)
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py" />
-</p>
+<img align="right" alt="Coding" width="350"
+src="https://user-images.githubusercontent.com/74038190/216655813-c9147cb2-cfee-4955-b591-52cac08f1f60.gif">
 
 ### About Me
-- I am an **IT Professional** focusing on building and optimizing AI systems.
-- I am constantly learning and mastering complex Machine Learning models.
-- Feel free to reach out if you want to discuss **Artificial Intelligence**, **Deep Learning**, or **Python Development**.
+
+- 🎓 FPT University
+- 🤖 Interested in AI, Machine Learning, Data Science
+- 🌱 Currently learning LLMs & Generative AI
+- 💬 Ask me about Python, LLM, Machine Learning
+- 📫 Reach me: nguyenvanlinh.1710.it@gmail.com
 
 ---
+
+### Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas,numpy,mysql,postgres,docker,git,vscode" />
+</p>
+
+---
+
+### GitHub Stats
+
+<!-- GitHub Readme Stats -->
