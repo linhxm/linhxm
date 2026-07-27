@@ -1,6 +1,7 @@
 <h1 align="center">Hi there, I'm Nguyễn Văn Linh 👋</h1>
+<p align="center"><em>From Rice Fields to Neural Networks 🌾→🧠</em></p>
 
-<p align="center"><img width="150" src="https://user-images.githubusercontent.com/74038190/216655813-c9147cb2-cfee-4955-b591-52cac08f1f60.gif" style="vertical-align:middle"> <em style="vertical-align:middle">From Rice Fields to Neural Networks 🌾→🧠</em></p>
+<img align="right" width="150" src="https://user-images.githubusercontent.com/74038190/216655813-c9147cb2-cfee-4955-b591-52cac08f1f60.gif">
 
 ```yaml
 linh@github ────────────────────────────────
