@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Nguyễn Văn Linh 👋</h1>
+<h2 align="center">Hi there, I'm Nguyễn Văn Linh 👋</h2>
 <p align="center"><em>From Rice Fields to Neural Networks 🌾→🧠</em></p>
 
 <img align="right" width="150" src="https://user-images.githubusercontent.com/74038190/216655813-c9147cb2-cfee-4955-b591-52cac08f1f60.gif">
@@ -12,7 +12,7 @@ linh@github ──────────────────────�
 - Contact ──────────────────────────────────
 . Email: ....................... nguyenvanlinh.1710.it@gmail.com
 . LinkedIn: .................... nguyenvanlinh170704
-. Discord ...................... linhxm2697
+. Discord: ..................... linhxm2697
 
 - Language ─────────────────────────────────
 . Languages.Programming: ....... Python, JavaScript
