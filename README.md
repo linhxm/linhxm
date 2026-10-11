@@ -15,8 +15,8 @@ linh@github ──────────────────────�
 . Discord: ..................... linhxm2697
 
 - Language ─────────────────────────────────
-. Languages.Programming: ....... Python, JavaScript
-. Languages.Human: ............. Vietnamese, English
+. Languages.Programming: ....... Python, C, JavaScript, TypeScript
+. Languages.Human: ............. Vietnamese, English, Japanese
 
 - Stack ────────────────────────────────────
 . Stack.AI/ML: ................. TensorFlow, PyTorch, scikit-learn, Pandas, NumPy
@@ -24,8 +24,3 @@ linh@github ──────────────────────�
 . Stack.Backend: ............... FastAPI, Flask, Node.js, MySQL, MongoDB
 . Stack.Cloud/DevOps: .......... AWS, Docker, Git, Linux
 ```
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=linhxm&label=Profile+Views&color=6366f1&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/linhxm?label=Followers&color=6366f1&style=for-the-badge&logo=github&logoColor=white" alt="followers" />
-</p>
